@@ -15821,3 +15821,25 @@ body .container {
 body #carouselExampleIndicators2 .card {
   box-shadow: 10px 5px 5px rgba(0, 0, 0, 0.418);
 }
+
+body #blog {
+  display: flex;
+}
+
+body #img3 {
+  flex: 4;
+}
+
+body #txt3 {
+  flex: 8;
+  background-color: hotpink;
+}
+
+body #img4 {
+  flex: 4;
+}
+
+body #txt4 {
+  flex: 8;
+  background-color: hotpink;
+}

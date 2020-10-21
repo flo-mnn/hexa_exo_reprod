@@ -44,5 +44,25 @@ body {
         box-shadow: 10px 5px 5px rgba(0, 0, 0, 0.418);
 
     }
+
 }
+#blog {
+    display: flex;
+}
+#img3{
+    flex:4;
+
+}
+#txt3{
+    flex: 8;
+    background-color: hotpink;
+}
+#img4{
+    flex:4;
+}
+#txt4{
+    flex: 8;
+    background-color: hotpink;
+}
+
 }
