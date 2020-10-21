@@ -15791,3 +15791,33 @@ body header .banner {
 body header .banner .container {
   height: 30vh;
 }
+
+body .section2et3 h1 {
+  color: black;
+}
+
+body #section4 .container {
+  display: flex;
+  justify-content: center;
+}
+
+body #section4 .container div {
+  width: 50%;
+}
+
+body #6testimonial .container {
+  display: flex;
+  justify-content: center;
+}
+
+body #6testimonial .container div:first-child {
+  width: 50%;
+}
+
+body .container {
+  width: 75%;
+}
+
+body #carouselExampleIndicators2 .card {
+  box-shadow: 10px 5px 5px rgba(0, 0, 0, 0.418);
+}
