@@ -1,0 +1,25 @@
+body {
+    padding: 0;
+    header {
+        background: linear-gradient(rgba(121, 119, 119, 0.192),rgba(121, 119, 119, 0.192)),url("../../../public/img/banner.jpg");
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 100vh;
+        .banner {
+            margin-top: 25vh;
+            .container {
+                height: 30vh;
+            }
+        }
+        // #section1 {
+        //     .container {
+        //         .row {
+        //             height: 120px;
+        //             .col-lg-4 {
+        //                 justify-content: space-around;;
+        //             }
+        //         }
+        //     }
+        // }
+    }
+}

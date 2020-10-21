@@ -15772,3 +15772,22 @@ a.text-dark:hover, a.text-dark:focus {
     border-color: #dee2e6;
   }
 }
+
+body {
+  padding: 0;
+}
+
+body header {
+  background: linear-gradient(rgba(121, 119, 119, 0.192), rgba(121, 119, 119, 0.192)), url("../../../public/img/banner.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+}
+
+body header .banner {
+  margin-top: 25vh;
+}
+
+body header .banner .container {
+  height: 30vh;
+}
